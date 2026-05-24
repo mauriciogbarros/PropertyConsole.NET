@@ -8,6 +8,7 @@ Built as a portfolio project, it demonstrates modern backend and frontend develo
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
+- [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,7 +18,6 @@ Built as a portfolio project, it demonstrates modern backend and frontend develo
 **PropertyConsole.NET** provides a centralized platform for managing units, tenants, and maintenance workflows. It supports multiple user roles, allowing each type of user to interact with the system based on their responsibilities.
 
 The goal of this project is to showcase Clean architecture, secure API design, and moder web development practices.
-
 
 ## Key Features
 ### Manager Dashboard
@@ -56,6 +56,9 @@ The goal of this project is to showcase Clean architecture, secure API design, a
 
 ### Validation
 - FluentValidation
+
+## Documentation
+- Information about the architecture can be found in [Architecture](./Documentation/Architecture.md).
 
 ## Installation
 
