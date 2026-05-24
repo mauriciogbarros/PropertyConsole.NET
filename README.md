@@ -1,6 +1,6 @@
-# PropertyFlow
+# PropertyConsole.NET
 
-**PropertyFlow** is a full-stack property managemetn web application designed to streamline the daily operational of managing rental properties.
+**PropertyConsole.NET** is a full-stack property managemetn web application designed to streamline the daily operational of managing rental properties.
 
 Built as a portfolio project, it demonstrates modern backend and frontend development using .NET 10, ASP.NET Core, Blazor, Entity Framework Core, and PostgreSQL.
 
@@ -14,7 +14,7 @@ Built as a portfolio project, it demonstrates modern backend and frontend develo
 - [License](#license)
 
 ## Overview
-**PropertyFlow** provides a centralized platform for managing units, tenants, and maintenance workflows. It supports multiple user roles, allowing each type of user to interact with the system based on their responsibilities.
+**PropertyConsole.NET** provides a centralized platform for managing units, tenants, and maintenance workflows. It supports multiple user roles, allowing each type of user to interact with the system based on their responsibilities.
 
 The goal of this project is to showcase Clean architecture, secure API design, and moder web development practices.
 
